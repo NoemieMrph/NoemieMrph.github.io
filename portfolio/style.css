@@ -1,0 +1,30 @@
+/*#cartes-et-diagrammes-primitifs-era {
+    background-color: #FF0099;
+}*/
+
+.tl-timeera.tl-timeera-color1 .tl-timeera-background {
+    background-color: #C8FF8A;
+}
+.tl-timeera.tl-timeera-color2 .tl-timeera-background {
+    background-color: #767F6B;
+}
+.tl-timeera.tl-timeera-color3 .tl-timeera-background {
+    background-color: #ECFFD7;
+}
+.tl-timeera.tl-timeera-color4 .tl-timeera-background {
+    background-color: #647F45;
+}
+.tl-timeera.tl-timeera-color5 .tl-timeera-background {
+    background-color: #82CC39;
+}
+.tl-timeera.tl-timeera-color0 .tl-timeera-background {
+    background-color: #517F23;
+}
+
+body {
+    font-family: Muli;
+}
+
+.tl-timeline tl-layout-landscape {
+    font-family: Muli;
+}
